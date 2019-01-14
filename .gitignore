@@ -1,8 +1,13 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-# User-specific stuff
+# added by mkh
 .idea/workspace.xml
+.idea/encodings.xml
+src/**/*.iml
+*.iml
+
+# User-specific stuff
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
